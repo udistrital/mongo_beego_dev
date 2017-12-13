@@ -12,6 +12,8 @@ In the console run `docker-compose up` and it will do the heavylifting to start 
 angular4/code, contains the source code for the frontend app
 beego/code, contains the source code for the beego API app
 
+the folders *code* for angular4 and beego must be created
+
 ### How to access the services
 
 | *URL* | *Application* |
